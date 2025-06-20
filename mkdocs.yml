@@ -29,6 +29,10 @@ theme:
       name: Switch to light mode
     primary: teal
     accent: lime
+    
+extra_javascript:
+  - js/open-new-tab.js
+
 extra:
   social:
   - icon: fontawesome/brands/github-alt
