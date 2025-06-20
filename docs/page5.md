@@ -10,7 +10,7 @@ Welcome to the TurtleBot3 documentation. This guide will help you get started wi
 - [Tutorials](#tutorials)
   - [Tutorial 1: Basic Setup](#tutorial-1-basic-setup)
   - [Tutorial 2: Teleoperation](#tutorial-2-teleoperation)
-  - [Tutorial 3: SLAM (Simultaneous Localization and Mapping)](#tutorial-3-slam)
+  - [Tutorial 3: SLAM (Simultaneous Localization and Mapping)](#tutorial-3-slam-simultaneous-localization-and-mapping)
   - [Tutorial 4: Navigation](#tutorial-4-navigation)
 - [Troubleshooting](#troubleshooting)
 - [Additional Resources](#additional-resources)

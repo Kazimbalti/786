@@ -29,9 +29,10 @@ Our mission is to automate urban sidewalks by running cost-effective, on-demand 
 Explore our tutorials to learn more about our delivery robot and how it can benefit your business or community:
 
 1. [Getting Started with Our Delivery Robot](#getting-started)
-2. [Autonomous Navigation and Safety](#autonomous-navigation)
-3. [Efficient Route Planning](#route-planning)
-4. [Using Our Delivery Robot for Your Business](#business-use)
+2. [Autonomous Navigation and Safety](#autonomous-navigation-and-safety)
+3. [Efficient Route Planning](#efficient-route-planning)
+4. [Using Our Delivery Robot for Your Business](#using-our-delivery-robot-for-your-business)
+
 
 ## Getting Started
 
