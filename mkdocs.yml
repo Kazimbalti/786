@@ -21,7 +21,7 @@ theme:
     toggle:
       icon: material/toggle-switch-off-outline
       name: Switch to dark mode
-    primary: teal
+    primary: sky_blue
     accent: purple
   - scheme: slate
     toggle:
@@ -29,10 +29,6 @@ theme:
       name: Switch to light mode
     primary: teal
     accent: lime
-    
-extra_javascript:
-  - js/open-new-tab.js
-
 extra:
   social:
   - icon: fontawesome/brands/github-alt
@@ -57,7 +53,7 @@ copyright: '&copy; 2024 <a href="https://github.com/kazimbalti"  target="_blank"
 nav:
 - Welcome: index.md
 - Unmanned Ground Vehicles (UGVs):
-  - Scout Mini: page2.md
+  - Scout_Mini: page2.md
   - Scout_Hunter: Page3.md
   - F1Tenth: Page4.md
   - Turtlebot3: page5.md
