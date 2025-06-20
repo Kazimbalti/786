@@ -1,3 +1,6 @@
+# git add .
+# git commit -m $'Modified new version of files'
+# git push origin main
 site_name: Dr Muhammad Kazim
 site_url: https://kazimbalti.github.io/786/
 theme:
